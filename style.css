@@ -1,6 +1,16 @@
-h2 {font-size: 28px;}
-h1 {font-size: 36px;}
-span {color: darkcyan;}
+body {font-family: Arial;
+}
+
+h2 {font-size: 28px;
+}
+
+h1 {font-size: 36px;
+}
+
+span {color: darkcyan;
+}
+
 img {
     width: 150px;
-    height: 150px;}
+    height: 150px;
+}
